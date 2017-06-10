@@ -1,0 +1,33 @@
+.panel, a, .navbar, body {
+  color: green;
+  background-color: black;
+}
+
+
+
+.panel{
+    padding-left: 10px;
+
+}
+
+.details {
+  padding-left: 10%;
+}
+
+
+.custom > li > a:hover {
+    color: #000000;
+}
+
+
+.name {
+  text-align: center;
+}
+
+.proj-details {
+  text-indent: 5%;
+}
+
+.project {
+  border: 3px solid #C0C0C0 ;
+}
